@@ -1,0 +1,14 @@
+{
+  "author": "JasonQiusip",
+  "name": "Web-news-VR-AR",
+  "description": "intro and news for AR/VR",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.2.0",
+    "request": "~2.34.0"
+  }
+}
